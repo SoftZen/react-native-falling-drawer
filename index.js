@@ -164,6 +164,7 @@ const styles = {
 }
 
 FallingDrawer.propTypes = {
+    screens: PropTypes.array,
     headerHeight: PropTypes.number,
     shakeDuration: PropTypes.number,
     optionCollapseSpeed: PropTypes.number,
