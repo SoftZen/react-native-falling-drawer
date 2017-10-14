@@ -18,7 +18,7 @@ import FallingDrawer from 'react-native-falling-drawer'
 
 const SCREENS = [
   {
-  	key: "profile",
+    key: "profile",
     name: "Profile",
     color: "red",
     titleColor: "#fff",
@@ -54,7 +54,7 @@ Each screen in the screens array is an object which looks like this:
 
 ```
 {
-	key: "profile",            // unique key among all screens
+    key: "profile",            // unique key among all screens
     name: "Profile",           // header and option title 
     color: "red",              // header and option color
     titleColor: "#fff", 
