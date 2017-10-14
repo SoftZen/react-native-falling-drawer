@@ -163,7 +163,7 @@ const styles = {
     }
 }
 
-CollapsibleDrawer.propTypes = {
+FallingDrawer.propTypes = {
     headerHeight: PropTypes.number,
     shakeDuration: PropTypes.number,
     optionCollapseSpeed: PropTypes.number,
@@ -171,7 +171,7 @@ CollapsibleDrawer.propTypes = {
     diversifyAnimations: PropTypes.bool,
 };
 
-CollapsibleDrawer.defaultProps = {
+FallingDrawer.defaultProps = {
     headerHeight: HEADER_HEIGHT,
     shakeDuration: 800,
     optionCollapseSpeed: 150,
