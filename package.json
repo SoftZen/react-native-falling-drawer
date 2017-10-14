@@ -1,0 +1,32 @@
+{
+  "name": "react-native-falling-drawer",
+  "version": "1.0.0",
+  "description": "A customizable falling drawer for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftZen/react-native-customizable-drawer.git"
+  },
+  "keywords": [
+    "drawer",
+    "falling",
+    "customizable",
+    "collapsible"
+  ],
+  "author": "Alexander Vitanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoftZen/react-native-customizable-drawer/issues"
+  },
+  "homepage": "https://github.com/SoftZen/react-native-customizable-drawer#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0",
+    "react-native-animatable": "^1.2.4",
+    "react-native-vector-icons": "^4.4.2",
+    "react-native-view": "^1.1.0"
+  }
+}
