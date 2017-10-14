@@ -1,6 +1,6 @@
 {
   "name": "react-native-falling-drawer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable falling drawer for React Native",
   "main": "index.js",
   "scripts": {
