@@ -1,6 +1,8 @@
 # react-native-falling-drawer
 Customizable falling drawer for React Native
 
+[![NPM](https://nodei.co/npm/react-native-falling-drawer.png)](https://www.npmjs.com/package/react-native-falling-drawer)
+
 <img src="https://raw.githubusercontent.com/SoftZen/react-native-falling-drawer/master/Example/falling_drawer.gif" alt="example drawer" width="400"/>
 
 Installation
