@@ -1,3 +1,5 @@
+[![](https://img.shields.io/npm/dm/react-native-falling-drawer.svg?style=flat-square)](https://www.npmjs.com/package/react-native-falling-drawer)
+
 # react-native-falling-drawer
 Customizable falling drawer for React Native
 
